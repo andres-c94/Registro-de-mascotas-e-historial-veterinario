@@ -1,0 +1,56 @@
+body {
+    background-image: url(media/76.jpg) ;
+}
+
+.barranav {
+    box-shadow: 2px 2px 15px 0 rgb(41, 157, 202);
+}
+
+.nav-item {
+
+    margin-top: 20px;
+}
+
+.nav-link {
+    color: white;
+}
+
+.logo {
+    margin-left: 20px;
+    padding: 3px;
+}
+
+.titulo {
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.container-fluid .form-control {
+    width: 300px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.container-fluid .form-label {
+    width: 200px;
+    margin-left: 10px ;
+}
+
+.container-fluid form input {
+    width: 535px;
+    margin-top: 20px;
+}
+
+img{
+    border-radius: 10px;
+}
+
+.container-fluid .alerta{
+    width: 500px;
+}
+
+.container-fluid{
+    margin: auto;
+}
+
